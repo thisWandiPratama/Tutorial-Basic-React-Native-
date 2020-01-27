@@ -4,7 +4,7 @@ Berikut ini merupakan panduan artikel cara penggunaan component react native unt
 - [Basic React Native Part 1 - Persiapan Development](https://cloudborneo.com/basic-react-native-part-1-persiapan-development/)
 - [Basic React Native Part 2 - Install React Native](https://cloudborneo.com/basic-react-native-part-2-install-react-native/)
 - [Basic React Native Part 3 - Install Text Editor](https://cloudborneo.com/basic-react-native-part-3-install-text-editor/)
-- [Basic React Native Part 4 - Run Aplikasi Ke Device(https://cloudborneo.com/basic-react-native-part-4-run-aplikasi-ke-device/)
+- [Basic React Native Part 4 - Run Aplikasi Ke Device](https://cloudborneo.com/basic-react-native-part-4-run-aplikasi-ke-device/)
 - [Basic React Native Part 5 - Mengenal Struktur File, Class dan Funtion Component](https://cloudborneo.com/basic-react-native-part-5-mengenal-struktur-file-class-dan-funtion-component/)
 - [Basic React Native Part 6 - React Native View](https://cloudborneo.com/basic-react-native-part-7-react-native-text/)
 - [Basic React Native Part 7 - React Native Text](https://cloudborneo.com/basic-react-native-part-2-install-react-native/)
